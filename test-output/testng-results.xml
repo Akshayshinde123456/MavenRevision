@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-18T16:14:12 IST" name="Suite" finished-at="2023-07-18T16:16:51 IST" duration-ms="158512">
+    <groups>
+    </groups>
+    <test started-at="2023-07-18T16:14:12 IST" name="Test" finished-at="2023-07-18T16:16:51 IST" duration-ms="158512">
+      <class name="demo.Ajio">
+        <test-method signature="AjioTest()[pri:0, instance:demo.Ajio@614ca7df]" started-at="2023-07-18T16:15:01 IST" name="AjioTest" finished-at="2023-07-18T16:15:53 IST" duration-ms="51890" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AjioTest -->
+      </class> <!-- demo.Ajio -->
+      <class name="demo.Amazon">
+        <test-method signature="amazonTest()[pri:0, instance:demo.Amazon@4738a206]" started-at="2023-07-18T16:15:53 IST" name="amazonTest" finished-at="2023-07-18T16:16:51 IST" duration-ms="57584" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- amazonTest -->
+      </class> <!-- demo.Amazon -->
+      <class name="demo.Flipkart">
+        <test-method signature="flipkartTest()[pri:0, instance:demo.Flipkart@383bfa16]" started-at="2023-07-18T16:14:12 IST" name="flipkartTest" finished-at="2023-07-18T16:15:01 IST" duration-ms="48924" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- flipkartTest -->
+      </class> <!-- demo.Flipkart -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
