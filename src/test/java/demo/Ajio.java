@@ -14,5 +14,6 @@ public class Ajio {
 	 // Assert.fail();
        driver.close();
        Thread.sleep(3000);
+       System.out.println("Hello");
   }
 }
